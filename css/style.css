@@ -15,3 +15,11 @@ body{
     background: none !important;
     color: red !important;
 }
+.loaderIcon span{
+    width: 3.5rem !important;
+}
+.carousel-item img{
+    width: 50%;
+    height: auto;
+    margin: 0 auto;
+}
